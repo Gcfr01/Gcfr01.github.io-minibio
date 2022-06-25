@@ -1,0 +1,1 @@
+document.writeln("I am 20 yrs")
